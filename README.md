@@ -1,2 +1,2 @@
 # MiniBrosConntroller
-MiniBros（ラジコンもどき）用のWebコントローラー
+ラジコンボート用のWebコントローラー
