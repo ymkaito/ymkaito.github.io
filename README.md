@@ -1,2 +1,2 @@
-# MiniBrosConntroller
+# TeleBoatConntroller
 ラジコンボート用のWebコントローラー
