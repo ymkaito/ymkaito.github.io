@@ -1,1 +1,2 @@
-# ymkaito.github.io
+# MiniBrosConntroller
+MiniBros（ラジコンもどき）用のWebコントローラー
